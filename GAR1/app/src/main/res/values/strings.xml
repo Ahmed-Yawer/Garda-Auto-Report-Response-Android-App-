@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GAR1</string>
+
+    <!--My Activity-->
+    <string name="action_settings">Edit Information</string>
+    <string name="example_radiogroup">Example showing RadioGroup</string>
+    <string name="car_stolen">My car been stolen</string>
+    <string name="house_beak">My home been broke in.</string>
+    <string name="street_accident">I am facing street Accident</string>
+    <string name="phone_lost">My phone been stolen</string>
+    <string name="car_accident">My car been collide</string>
+    <string name="send_button">Send</string>
+
+    <!--Login Activity-->
+    <string name="title_activity_login">Sign up</string>
+    <string name="personal_info">Please insert your personal infromation here:</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="home_address">Home Address</string>
+    <string name="save">save</string>
+    <string name="my_default">Default</string>
+
+    <!--test login Activity-->
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_my_login">MyLogin</string>
+</resources>
